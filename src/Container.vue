@@ -1,6 +1,6 @@
 <script lang="ts" setup>
-import MyTorus from './MyTorus.vue'
+import MyObject from './MyObject.vue'
 </script>
 <template>
-    <MyTorus />
+    <MyObject />
 </template>
