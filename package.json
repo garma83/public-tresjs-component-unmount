@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@tresjs/cientos": "^5.2.4",
-    "@tresjs/core": "^5.3.2",
+    "@tresjs/core": "https://pkg.pr.new/@tresjs/core@671a4dd",
     "three": "^0.182.0",
     "vue": "^3.5.27"
   },
